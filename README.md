@@ -1,3 +1,5 @@
+#原库已失效，代码已改成本库
+
 # 通知！！！
 
 以下教程仅适用于1.2以下的版本！！
@@ -49,7 +51,6 @@ mkdir nolanjdc && cd nolanjdc
 ```
 
 3下载config.json 配置文件 并且修改自己的配置 不能缺少
-(原大佬库已失效，代码已改成本库)
 
 ```
 wget -O Config.json https://raw.githubusercontent.com/prajna0/nvjdc/main/Config.json
